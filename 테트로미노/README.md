@@ -8,7 +8,7 @@
 도형은 모두 연결되어 있어야 한다.
 정사각형의 변끼리 연결되어 있어야 한다. 즉, 꼭짓점과 꼭짓점만 맞닿아 있으면 안 된다.
 정사각형 4개를 이어 붙인 폴리오미노는 테트로미노라고 하며, 다음과 같은 5가지가 있다.<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/All_5_free_tetrominoes.svg" stlye="width: 500px"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/All_5_free_tetrominoes.svg"><br>
 아름이는 크기가 N×M인 종이 위에 테트로미노 하나를 놓으려고 한다. 종이는 1×1 크기의 칸으로 나누어져 있으며, 각각의 칸에는 정수가 하나 쓰여 있다.
 
 테트로미노 하나를 적절히 놓아서 테트로미노가 놓인 칸에 쓰여 있는 수들의 합을 최대로 하는 프로그램을 작성하시오.
