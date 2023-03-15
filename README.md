@@ -4,7 +4,6 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-
 |3월 17일(금)|[로봇청소기](https://www.acmicpc.net/problem/14503), [감시](https://www.acmicpc.net/problem/15683)|
 
 
