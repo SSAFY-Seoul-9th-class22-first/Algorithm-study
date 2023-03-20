@@ -8,56 +8,54 @@ int visited[51][51];
 
 int sx, sy, dir;
 int ny, nx;
-//0 ºÏ 1 µ¿ 2 ³² 3 ¼­
+//0 ë¶ 1 ë™ 2 ë‚¨ 3 ì„œ
 int dy[] = { -1,0,1,0 };
 int dx[] = { 0,1,0,-1 };
-int ans = 0;
-int cnt = 0;
+int result = -21e8;
 int dir_left[] = { 3,0,1,2 };
 int dir_back[] = { 2,3,0,1 };
-void solve(int sy,int sx,int dir,int ans)
+void solve(int sy, int sx, int dir, int ans)
 {
 
 	for (int i = 0; i < 4; i++)
 	{
+		int ndir = (dir+3-i)%4;
+		int by = sy + dy[ndir];
+		int bx = sx + dx[ndir];
 
-		int ny = sy + dy[i];
-		int nx = sx + dx[i];
-		
-		//´ÙÀ½Ä­ÀÌ ÀÌµ¿¸øÇÔ.
-		if (map[ny][nx] == 1  || ny<0 || nx<0 || ny>=N || nx>=M)
+		//ë‹¤ìŒì¹¸ì´ ì´ë™ëª»í•¨.
+		if (map[by][bx] == 1 || by < 0 || bx < 0 || by >= N || bx >= M)
 		{
 			continue;
 		}
 
+
 		
-		int ndir = dir_left[dir];
-		int by = sy + dy[dir_left[dir]];
-		int bx = sx + dx[dir_left[dir]];
 		if (visited[by][bx] == 0 && map[by][bx] == 0)
 		{
 			visited[by][bx] = 1;
 			solve(by, bx, ndir, ans + 1);
-			
+		//	visited[by][bx] = 0;
+
 		}
 
 	}
 
-	//4¹æÇâ ´Ù ¾ÈµÉ¶§
+	//4ë°©í–¥ ë‹¤ ì•ˆë ë•Œ
 	int by2 = sy + dy[dir_back[dir]];
 	int bx2 = sx + dx[dir_back[dir]];
-	if (map[by2][bx2] == 1 || (by2<0 ||bx2<0 || by2>=N || bx2>=M))//ÈÄÁø ºÒ°¡´É
+	
+	if (map[by2][bx2] == 1 || by2 < 0 || bx2 < 0 || by2 >= N || bx2 >= M)//í›„ì§„ ë¶ˆê°€ëŠ¥
 	{
+		result = max(ans, result);
 		return;
 	}
+	
 	else
 	{
-		
-		//ÈÄÁø
-		solve(by2, bx2, dir_back[dir],ans);
-		
+		solve(by2, bx2, dir, ans);
 	}
-	
+
 }
 
 int main()
@@ -72,11 +70,11 @@ int main()
 	}
 
 	visited[sy][sx] = 1;
-	solve(sy, sx, dir,ans);
-	
+	solve(sy, sx, dir, 1);
 
 
-	cout << ans << endl;
+
+	cout << result << endl;
 	return 0;
 
 }
