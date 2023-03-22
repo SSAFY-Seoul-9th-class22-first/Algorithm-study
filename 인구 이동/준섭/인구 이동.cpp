@@ -38,11 +38,12 @@ void bfs(int y, int x, int cnt) {
 			flag = 1;
 			visited[dy][dx] = cnt;
 			q.push({ dy, dx });
+			// 각 나라들의 합과 연합된 나라의 수
 			sum += arr[dy][dx];
 			c++;
 		}
 	}
-
+	// 넘버링 한 인덱스마다 값 갱신
 	avr[cnt] = sum / c;
 }
 
@@ -53,7 +54,9 @@ int main() {
 
 	for (int i = 0; i < n; i++) for (int j = 0; j < n; j++) cin >> arr[i][j];
 	int ans = 0;
+	
 	while (1){
+		// 연합된 나라들 넘버링하기 위한 cnt
 		int cnt = 0;
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n;j++) {
@@ -62,16 +65,17 @@ int main() {
 				bfs(i, j, cnt);
 			}
  		}
-
+		// 하나라도 연합을 했다면
 		if (flag) {
 			ans++;
 			flag = 0;
 		}
+		// 연합이 하나도 없다면
 		else {
 			cout << ans;
 			break;
 		}
-
+		// 갱신
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n; j++) {
 				if (visited[i][j] == 0) continue;
