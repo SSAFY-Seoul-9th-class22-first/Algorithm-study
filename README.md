@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|3월 22일(수)|[인구 이동](https://www.acmicpc.net/problem/16234), [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|
+|3월 24일(금)|[매직 샤크 파이어볼](https://www.acmicpc.net/problem/20056), [매직 샤크 파이어스톰](https://www.acmicpc.net/problem/20058)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -25,3 +25,4 @@
 |3월 15일(수)|[테트로미노](https://www.acmicpc.net/problem/14500), [연구소](https://www.acmicpc.net/problem/14502)|
 |3월 17일(금)|[로봇청소기](https://www.acmicpc.net/problem/14503), [감시](https://www.acmicpc.net/problem/15683)|
 |3월 20일(월)|[드래곤 커브](https://www.acmicpc.net/problem/15685), [연구소3](https://www.acmicpc.net/problem/17142)|
+|3월 22일(수)|[인구 이동](https://www.acmicpc.net/problem/16234), [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|
