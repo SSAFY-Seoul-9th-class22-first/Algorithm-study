@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
+|4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -19,6 +19,11 @@
 ## 완료 문제
 
 ---
+### <4월>
+|일정|문제 링크|
+|:---:|:---:|
+|4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
+---
 ### <3월>
 |일정|문제 링크|
 |:---:|:---:|
@@ -32,3 +37,4 @@
 |3월 24일(금)|[매직 샤크 파이어볼](https://www.acmicpc.net/problem/20056), [매직 샤크 파이어스톰](https://www.acmicpc.net/problem/20058)|
 |3월 29일(월)|[상어 초등학교](https://www.acmicpc.net/problem/21608), [스타트 택시](https://www.acmicpc.net/problem/19238)|
 |3월 31(금)|[나무 재테크](https://www.acmicpc.net/problem/16235)|
+
