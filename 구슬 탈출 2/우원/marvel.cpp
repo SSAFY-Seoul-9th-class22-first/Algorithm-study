@@ -73,6 +73,8 @@ void dfs(int level, int last) {
 
 	for (int i = 0; i < 4; ++i) {
 		if (i == last) continue;
+        if (reverseDir[i] == last) continue;
+
 		pii beforeRed = red; pii beforeBlue = blue;
 		int flagR, flagB;
 
