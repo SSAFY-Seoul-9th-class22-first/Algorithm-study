@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 5(수)|[피싱킹](https://www.acmicpc.net/problem/17143)|
+|4월 7(금)|[피싱킹](https://www.acmicpc.net/problem/17143)|
 
 
 <div style="display: flex, flex: space-evenly>
