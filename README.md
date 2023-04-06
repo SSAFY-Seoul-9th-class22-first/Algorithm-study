@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
+|4월 5(수)|[피싱킹](https://www.acmicpc.net/problem/17143)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -23,6 +23,7 @@
 |일정|문제 링크|
 |:---:|:---:|
 |4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
+|4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
 ---
 ### <3월>
 |일정|문제 링크|
