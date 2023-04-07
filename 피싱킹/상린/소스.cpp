@@ -81,7 +81,7 @@ int main()
 					if (offsetR == 0) ny = i;
 					else ny = abs((i + Dr[0][MAP[i][j].d] * MAP[i][j].s) % offsetR);
 					int nx;
-					if (offsetC == 0) nx = i;
+					if (offsetC == 0) nx = j;
 					else nx = abs((j + Dr[1][MAP[i][j].d] * MAP[i][j].s) % offsetC);
 
 					if (ny >= R)
