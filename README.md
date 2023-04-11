@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 12(수)|[개인정보 수집 유효기간_프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4_백준](https://solved.ac/class/4e)|
+|4월 12(수)|[개인정보 수집 유효기간_P](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4_B](https://solved.ac/class/4e)|
 
 
 <div style="display: flex, flex: space-evenly>
