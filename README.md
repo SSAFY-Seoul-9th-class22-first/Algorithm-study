@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 7(금)|[피싱킹](https://www.acmicpc.net/problem/17143)|
+|4월 12(수)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4](https://solved.ac/class/4e)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -24,6 +24,8 @@
 |:---:|:---:|
 |4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
 |4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
+|4월 7(금)|[피싱킹](https://www.acmicpc.net/problem/17143)|
+|4월 10(월)|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|
 ---
 ### <3월>
 |일정|문제 링크|
