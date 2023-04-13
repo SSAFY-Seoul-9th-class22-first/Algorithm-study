@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 14(금)|[에이,,씨_B](https://www.acmicpc.net/problem/5430)<br>[벽 부수고 이동하기_B](https://www.acmicpc.net/problem/2206)|
+|4월 14(금)|[에이씨_B](https://www.acmicpc.net/problem/5430)<br>[벽 부수고 이동하기_B](https://www.acmicpc.net/problem/2206)|
 
 
 <div style="display: flex, flex: space-evenly>
