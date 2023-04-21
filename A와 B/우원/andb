@@ -1,0 +1,35 @@
+#include <string>
+#include <iostream>
+#include <queue>
+#include <cstring>
+#include <set>
+#include <algorithm>
+
+#define R first
+#define C second
+using namespace std;
+using pii = pair<int, int>;
+
+string s, t;
+
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+
+	cin >> s >> t;
+
+	while (t.size() >= s.size()) {
+		if (s == t) {
+			cout << 1;
+			return 0;
+		}
+		if (t[t.size() - 1] == 'A') t.pop_back();
+		else {
+			t.pop_back();
+			reverse(t.begin(), t.end());
+		}
+	}
+	cout << 0;
+	return 0;
+}
