@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 24(월)|[트리의 순회_B](https://www.acmicpc.net/problem/2263)<br>[파일명 정렬_P](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|
+|4월 26(수)|[구간 합 구하기_B](https://www.acmicpc.net/problem/2042)<br>[문자열 압축_P](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|
 
 
 <div style="display: flex, flex: space-evenly>
