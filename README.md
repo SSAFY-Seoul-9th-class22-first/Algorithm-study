@@ -20,16 +20,12 @@
 
 ---
 ### <4월> ###
-|일정|문제 링크|
-|:---:|:---:|
-|4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
-|4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
-|4월 7(금)|[피싱킹](https://www.acmicpc.net/problem/17143)|
-|4월 10(월)|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|
-|4월 12(수)|[개인정보 수집 유효기간_P](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4_B](https://solved.ac/class/4e)|
-|4월 14(금)|[에이씨_B](https://www.acmicpc.net/problem/5430)<br>[벽 부수고 이동하기_B](https://www.acmicpc.net/problem/2206)|
-|4월 17(월)|[전화번호 목록_B](https://www.acmicpc.net/problem/5052)<br>[이진 검색 트리_B](https://www.acmicpc.net/problem/5639)|
-|4월 19(수)|[트리_B](https://www.acmicpc.net/problem/4803)<br>[문자열 폭발_B](https://www.acmicpc.net/problem/9935)|
+|일정|문제 링크|일정|문제 링크|
+|:---:|:---:|:---:|:---:|
+|4월 3(월)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|4월 5(수)|[2048 (easy)](https://www.acmicpc.net/problem/12100)|
+|4월 7(금)|[피싱킹](https://www.acmicpc.net/problem/17143)|4월 10(월)|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|
+|4월 12(수)|[개인정보 수집 유효기간_P](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4_B](https://solved.ac/class/4e)|4월 14(금)|[에이씨_B](https://www.acmicpc.net/problem/5430)<br>[벽 부수고 이동하기_B](https://www.acmicpc.net/problem/2206)|
+|4월 17(월)|[전화번호 목록_B](https://www.acmicpc.net/problem/5052)<br>[이진 검색 트리_B](https://www.acmicpc.net/problem/5639)|4월 19(수)|[트리_B](https://www.acmicpc.net/problem/4803)<br>[문자열 폭발_B](https://www.acmicpc.net/problem/9935)|
 |4월 21(금)|[트리의 지름_B](https://www.acmicpc.net/problem/1967)<br>[A와 B_B](https://www.acmicpc.net/problem/12904)|
 
 
