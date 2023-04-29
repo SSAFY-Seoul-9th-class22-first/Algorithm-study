@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|4월 28(금)|[LCA_B](https://www.acmicpc.net/problem/11437)<br>[오픈채팅방_P](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|
+|5월 1(월)|[달이 차오른다, 가자_B](https://www.acmicpc.net/problem/1194)<br>[숫자 문자열과 영단어_P](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -27,7 +27,8 @@
 |4월 12(수)|[개인정보 수집 유효기간_P](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp)<br>[클래스 4_B](https://solved.ac/class/4e)|4월 14(금)|[에이씨_B](https://www.acmicpc.net/problem/5430)<br>[벽 부수고 이동하기_B](https://www.acmicpc.net/problem/2206)|
 |4월 17(월)|[전화번호 목록_B](https://www.acmicpc.net/problem/5052)<br>[이진 검색 트리_B](https://www.acmicpc.net/problem/5639)|4월 19(수)|[트리_B](https://www.acmicpc.net/problem/4803)<br>[문자열 폭발_B](https://www.acmicpc.net/problem/9935)|
 |4월 21(금)|[트리의 지름_B](https://www.acmicpc.net/problem/1967)<br>[A와 B_B](https://www.acmicpc.net/problem/12904)|4월 24(월)|[트리의 순회_B](https://www.acmicpc.net/problem/2263)<br>[파일명 정렬_P](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|
-|4월 26(수)|[구간 합 구하기_B](https://www.acmicpc.net/problem/2042)<br>[문자열 압축_P](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|
+|4월 26(수)|[구간 합 구하기_B](https://www.acmicpc.net/problem/2042)<br>[문자열 압축_P](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|4월 28(금)|[LCA_B](https://www.acmicpc.net/problem/11437)<br>[오픈채팅방_P](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|
+
 
 
 
