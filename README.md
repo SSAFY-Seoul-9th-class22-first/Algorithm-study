@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|5월 1(월)|[달이 차오른다, 가자_B](https://www.acmicpc.net/problem/1194)<br>[숫자 문자열과 영단어_P](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|
+|5월 3(수)|[최소 스패닝 트리_B](https://www.acmicpc.net/problem/1197)<br>[줄 세우기_B](https://www.acmicpc.net/problem/2252)|
 
 
 <div style="display: flex, flex: space-evenly>
@@ -17,6 +17,13 @@
 ---
 
 ## 완료 문제 ##
+
+---
+
+### <5월> ###
+|일정|문제 링크|일정|문제 링크|
+|:---:|:---:|:---:|:---:|
+|5월 1(월)|[달이 차오른다, 가자_B](https://www.acmicpc.net/problem/1194)<br>[숫자 문자열과 영단어_P](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|
 
 ---
 ### <4월> ###
