@@ -25,11 +25,12 @@ void input() {
     memset(cyc, 0, sizeof(cyc));
     cin >> n;
     for (int i = 1; i <= n; ++i) {
-        cin >> arr[i];
+        int a; cin >> a;
+        arr[i] = a;
     }
 }
 
-void check(int now) {
+void dfs(int now) {
     vst[now] = 1;
     int nxt = arr[now];
     if (!vst[nxt]) dfs(nxt);
@@ -50,7 +51,7 @@ int main() {
         input();
         for (int i = 1; i <= n; ++i) {
             if (vst[i]) continue;
-            check(i);
+            dfs(i);
         }
         int ret = 0;
         for (int i = 1; i <= n; ++i) {
