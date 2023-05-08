@@ -25,8 +25,7 @@ void input() {
     memset(cyc, 0, sizeof(cyc));
     cin >> n;
     for (int i = 1; i <= n; ++i) {
-        int a; cin >> a;
-        arr[i] = a;
+        cin >> arr[i];
     }
 }
 
