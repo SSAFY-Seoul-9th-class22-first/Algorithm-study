@@ -30,7 +30,7 @@ void input() {
     }
 }
 
-void dfs(int now) {
+void check(int now) {
     vst[now] = 1;
     int nxt = arr[now];
     if (!vst[nxt]) dfs(nxt);
@@ -51,7 +51,7 @@ int main() {
         input();
         for (int i = 1; i <= n; ++i) {
             if (vst[i]) continue;
-            dfs(i);
+            check(i);
         }
         int ret = 0;
         for (int i = 1; i <= n; ++i) {
