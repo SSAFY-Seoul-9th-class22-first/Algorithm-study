@@ -4,7 +4,7 @@
 
 |일정|문제 링크|
 |:---:|:---:|
-|5월 8(월)|[부분합_B](https://www.acmicpc.net/problem/1806)<br>[ACM Craft_B](https://www.acmicpc.net/problem/1005)|
+|5월 10(수)|[부분합_B](https://www.acmicpc.net/problem/1806)<br>[ACM Craft_B](https://www.acmicpc.net/problem/1005)|
 
 
 <div style="display: flex, flex: space-evenly>
