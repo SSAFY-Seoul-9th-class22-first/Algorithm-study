@@ -25,8 +25,8 @@
 |:---:|:---:|:---:|:---:|
 |5월 1(월)|[달이 차오른다, 가자_B](https://www.acmicpc.net/problem/1194)<br>[숫자 문자열과 영단어_P](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|5월 3(수)|[최소 스패닝 트리_B](https://www.acmicpc.net/problem/1197)<br>[줄 세우기_B](https://www.acmicpc.net/problem/2252)|
 |5월 8(월)|[텀 프로젝트_B](https://www.acmicpc.net/problem/9466)<br>[행성 터널_B](https://www.acmicpc.net/problem/2887)|5월 10(수)|[부분합_B](https://www.acmicpc.net/problem/1806)<br>[ACM Craft_B](https://www.acmicpc.net/problem/1005)|
-|5월 15(월)|[알파벳_B](https://www.acmicpc.net/problem/1987)<br>[LCS2_B](https://www.acmicpc.net/problem/9252)|
-|5월 17(수)|[문제집_B](https://www.acmicpc.net/problem/1766)<br>[보석도둑_B](https://www.acmicpc.net/problem/1202)|
+|5월 15(월)|[알파벳_B](https://www.acmicpc.net/problem/1987)<br>[LCS2_B](https://www.acmicpc.net/problem/9252)|5월 17(수)|[문제집_B](https://www.acmicpc.net/problem/1766)<br>[보석도둑_B](https://www.acmicpc.net/problem/1202)|
+
                                                                                                      
 ---
 ### <4월> ###
